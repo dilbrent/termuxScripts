@@ -1,0 +1,4 @@
+sshd
+pg_ctl -D $PREFIX/var/lib/postgresql start 
+netstat -tulp
+
